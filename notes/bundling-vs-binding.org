@@ -1,0 +1,13 @@
+NOTE: (how I currently interpret the difference)
+An *binding* (*interaction*) (2 components that together interact and make up a *new* concept at a higher level != aggregation (stays at similar levels => searches for a *representative*))
+
+*Binding*: can be used to combine heterogeneous concepts; results in another level of semantics
+*Bundling*: create sets of concepts; creates a representative HDV
+
+Op meeting 11/08:
+- bundling: van hetzelfde type, dat trekt op allemaal, soort *archetype / prototype* dat gezocht wordt (*gemiddelde maken van je data*)
+- binding: encoderen van *interactie*: trekt op geen-een van beide (XOR), meestal als je iets opbouwt uit componenten:
+  - molecule gecombineerd uit 2 groepjes
+  - regressiemodel: 2 variabele x1, x2 (binding -> interaction term x1*x2)
+- opzoeken: komt van *the binding problem* (fundamenteel probleem in artificiele inteligentie)
+  - groene appel + gele peer (wilt geen rare vrucht met kleur tussenin)

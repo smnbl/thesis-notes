@@ -1,0 +1,5 @@
+#+TITLE: For HDC, multi-instance learning is a breeze
+
+* What is multi-instance learning
+
+* Why is HDC such a good fit for multi-instance learning

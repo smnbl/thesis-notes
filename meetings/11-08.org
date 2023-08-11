@@ -1,0 +1,97 @@
+#+TITLE: Meeting 11/08
+
+* TODOs
+*** Michiel
+- Papers doosturen
+- Overleaf opzetten
+- Thesis van Kobe doosturen
+    
+*** Simon
+- Template opzoeken & doorsturen
+- Github repo maken + uploaden meeting notes
+- Verder exploreren en beginnen nadenken over welke richting thesis zal uitgaan
+  
+* Notas
+** Introductiedag
+- git & latex
+- template thesis -> TODO: doosturen om te laten uploaden naar Overleaf (zoeken naar template -> van de burgies?)
+- Intro voor knowledge systems -> Michiel is fan van Obisidian (een aanrader ;) )
+
+** Wanneer full time
+- implementeren / meer theoretische / data set
+  -> aangeven welke richting (liever dat ze mij sturen kan ook)
+
+** Waar zijn ze theoretisch mee bezig / toepassingen
+Pieter De Wulf
+- functies voorstellen als HDV
+- Allerhande ML applicaties (klassieke problemen met HDC)
+
+Worden nog doorgestuurd door Michiel.
+Ook aansluitingen bij Steff zijn doctoraat (counter-factual mean embedding)
+
+Andere paper (wordt ook doorgestuurd): methode om HDC graph embeddings te doen (eig vrij gemakkelijk)
+- kortste pad problemen
+- link predicitie
+- ...
+-> Die ideen eens bekijken hoe da zou passen in courante bioinformatica datasets (super interessant)
+
+Er zijn nog andere losse ideetjes (eerder theoretisch):
+- ooit geimplementeerd: bits in vectors interpreteren als *vage posibiliteiten*, (gelinkt *fuzzy logic*), de *graad* waarin iets waar is
+  - manier om onzekerheid te coderen?
+    - "ja en nee"; kunnen eens samenzitten met andere kerel (Bernard; de wereldautoriteit), wordt gebruikt voor onzekerheid en impreciese logic.
+      Maar hier eerder gewoon een andere manier om die operatoren te doen; Michiel vindt zelf heel interessant wiskundig, maar nooit experimenten mee gedaan over de praktijk.
+      - Duizenden dingen aggregeert -> werkt niet meer (je verliest de vaagheid) -> consensus zal altijd 1 of andere door toevalligheid
+      - Werkt vooral met weinig / beperkte hoeveelheid data
+
+  - ook wiskundig zeer eenvoudige operaties
+  - eens cool om eens te bekijken
+
+Andere interesse van Michiel: evolutionaire algorithmes, moderne varianten, gevoel dat HDC ook een interessant modelsysteem.
+
+Wim Van Criekingen, gelinkt aan startup age42: probeert op basis van methylatiepatronen, moleculaire leeftijd te achterhalen -> willen ook eens proberen met HDC
+  
+** Sandeep Reddy mails
+Heeft een startup rond A.I. for healthcare.
+
+Over wat gaat dit precies?
+  - Wat wordt er verwacht, wat voor data is dit?
+    - Iemand die interessante data kan aanbieden
+    - Heeft zeker de relevante achtergrondkennis
+
+  - Heeft dit nog steeds met implementatie van methodes te maken.
+    
+** Status update
+- Review paper doorlopen
+  - Concretere info over inference / learning
+  - Er wordt veel verwezen naar survey paper 2022
+
+- Tutorial doorgenomen
+  - Julia setup in orde
+- Graag zelf eens iets implementeren -> laatste meeting hebben we toy-projectjes besproken, wat was dat nu juist?
+- Nog niet echt naar causal inference gekeken
+  - Lessenreeks op Youtube gevonden (er werd al eens naar gelinkt in de startmateriaal mail) -> eens doornemen?
+
+** Meeting notes
+Doorsturen naar de begeleiders.
+
+Notas van:
+- wat besproken
+- TODOs / wat er nog gaat gebeuren
+
+TODO: github repo maken voor notities & delen met begeleiders
+  
+** Thesissen Kobe & Michael
+Hoe zit het hiermee, kan ik die eens doornemen?
+
+TODO (michiel): thesis van Kobe wordt doorgestuurd
+
+** Bundling vs binding
+Klein beetje verwarring.
+
+[[file:../notes/bundling-vs-binding.org]]
+
+** Meetings doorheen het jaar / Pracktische zaken:
+Wat werkt het best: wekelijkse meetings over wat er iedere week is gebeurt.
+
+Er is een zitplaats voor thesis studenten.
+Code: 4123

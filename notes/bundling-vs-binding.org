@@ -10,4 +10,5 @@ Op meeting 11/08:
   - molecule gecombineerd uit 2 groepjes
   - regressiemodel: 2 variabele x1, x2 (binding -> interaction term x1*x2)
 - opzoeken: komt van *the binding problem* (fundamenteel probleem in artificiele inteligentie)
+  - check: https://en.wikipedia.org/wiki/Binding_problem#:~:text=The%20consciousness%20and%20binding%20problem,decisions%2C%20actions%2C%20and%20perception.
   - groene appel + gele peer (wilt geen rare vrucht met kleur tussenin)
